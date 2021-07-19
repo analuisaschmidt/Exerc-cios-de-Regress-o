@@ -1,1 +1,1 @@
-# Exerc-cios-de-Regress-o
+# Exercios-de-Regressao
